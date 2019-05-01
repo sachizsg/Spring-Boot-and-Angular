@@ -8,3 +8,10 @@ Bike Registry System is a full stack application with these technologies
 * Spring data and JPA
 * Angular components and services
 
+### Prerequesties
+
+Basic of Angular
+Spring fundamentals
+REST concepts and persistance layers
+
+
