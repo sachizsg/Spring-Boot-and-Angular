@@ -1,3 +1,4 @@
 # Spring Boot and Angular
-# Building first application
+
+## Building your first application with Spring Boot and Angular
 Bike Registry System 
