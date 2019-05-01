@@ -1,2 +1,3 @@
-# Spring-Boot-and-Angular
-Bike Registry System
+# Spring Boot and Angular
+# Building first application
+Bike Registry System 
